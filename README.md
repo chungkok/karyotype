@@ -169,7 +169,7 @@ The pipeline returns a named list with two tables: `$summary` and `$detail`.
 
 If you use this script in your research or clinical work, please cite:
 
-> Kok, C.H. (2026). *cyto_auto_annotation: Automated cytogenetic karyotype parsing and risk classification for AML and MDS* [R script]. GitHub. https://github.com/[your-username]/[your-repo]
+> Kok, C.H. (2026). *cyto_auto_annotation: Automated cytogenetic karyotype parsing and risk classification for AML and MDS* [R script]. GitHub. https://github.com/chungkok/karyotype
 
 ---
 
